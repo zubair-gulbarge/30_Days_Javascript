@@ -92,11 +92,11 @@ $my-color:rgb(250, 245, 245);
     }
   }
 
-  a::after{
-    position:absolute;
-    content: "/";
-    right:-8px 
-  }
+  // a::after{
+  //   position:absolute;
+  //   // content: "/";
+  //   right:-8px 
+  // }
   
   // a:last-child::after{
   //   display: none;
